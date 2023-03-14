@@ -1,0 +1,3 @@
+# Git commands
+
+git blame- used to determine who made a change to a file.
