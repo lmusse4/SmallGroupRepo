@@ -5,3 +5,7 @@ git blame- used to determine who made a change to a file.
 git merge- integrates changes from two branches into a single branch.
 
 git checkout- allows you to switch to different branch.
+
+git diff- shows you what changes were made
+
+
